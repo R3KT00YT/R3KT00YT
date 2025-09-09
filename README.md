@@ -1,8 +1,8 @@
-<p align="left">Hola chicos!!!!</p>
+<h2 align="left">Hola chicos!!!!</h2>
 
 ###
 
-<p align="left">👋 Hola, soy Jesús Juárez, estudiante de Tecnologías de la Información y Comunicación (TICS) y fundador de R3KT00YT.<br><br>Mi pasión está en la programación, la ciberseguridad y el desarrollo de soluciones digitales que sean eficientes, seguras y accesibles.<br><br>A través de R3KT00YT, busco aprender, crear y compartir proyectos que ayuden tanto a estudiantes como a pequeñas empresas a proteger y optimizar su mundo digital. 🚀</p>
+<h4 align="left">👋 Hola, soy Jesús Juárez, estudiante de Tecnologías de la Información y Comunicación (TICS) y fundador de R3KT00YT.<br><br>Mi pasión está en la programación, la ciberseguridad y el desarrollo de soluciones digitales que sean eficientes, seguras y accesibles.<br><br>A través de R3KT00YT, busco aprender, crear y compartir proyectos que ayuden tanto a estudiantes como a pequeñas empresas a proteger y optimizar su mundo digital. 🚀</h4>
 
 ###
 
@@ -11,42 +11,34 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gentoo/gentoo-plain.svg" height="40" alt="gentoo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" height="40" alt="putty logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=R3KT00YT&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R3KT00YT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=R3KT00YT&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=3&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/R3KT00YT/R3KT00YT/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+<div align="center">
+  <img height="200" src="https://tenor.com/es-US/view/deku-java-programing-cry-mochiatun-gif-24211286.gif"  />
 </div>
 
 ###
